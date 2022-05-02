@@ -12,4 +12,5 @@ public class EstructuraDeDatos {
         System.out.printf("Tu nombre es %s tenes %d años y tu celular es %d", nombre, edad, telefono);
 
     }
+
 }
